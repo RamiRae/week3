@@ -1,0 +1,6 @@
+[core]
+    remote = c:\users\khan\desktop\python2\week3\notebooks
+['remote "c:\users\khan\desktop\python2\week3\notebooks"']
+    url = C:\Users\khan\Desktop\python2\week3\notebooks
+['remote "machinelearningrating_v3.csv"']
+    url = C:\Users\khan\Desktop\python2\week3\notebooks\MachineLearningRating_v3.csv
